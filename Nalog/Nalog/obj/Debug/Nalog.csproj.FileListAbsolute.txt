@@ -1,0 +1,52 @@
+C:\Users\1234p\source\repos\Nalog\Nalog\bin\Debug\Nalog.exe.config
+C:\Users\1234p\source\repos\Nalog\Nalog\bin\Debug\Nalog.exe
+C:\Users\1234p\source\repos\Nalog\Nalog\bin\Debug\Nalog.pdb
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.csproj.AssemblyReference.cache
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.CityForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.IstDohFizForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.MainForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.Properties.Resources.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.VidFizForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.csproj.GenerateResource.cache
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.csproj.CoreCompileInputs.cache
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.exe
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.pdb
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.AddFizForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.FizForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.NalogFizForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.AddFizNalogForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.DohodFizForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.AddUrForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.DeyatForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.URLForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.VidUrForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.AddUrNalogForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.NalogUrForm.resources
+C:\Users\1234p\source\repos\Nalog\Nalog\obj\Debug\Nalog.DohodUrForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\bin\Debug\Nalog.exe.config
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\bin\Debug\Nalog.exe
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\bin\Debug\Nalog.pdb
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.csproj.AssemblyReference.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.AddFizForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.AddFizNalogForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.AddUrForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.AddUrNalogForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.CityForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.DeyatForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.DohodFizForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.DohodUrForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.FizForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.IstDohFizForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.MainForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.NalogFizForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.NalogUrForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.Properties.Resources.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.URLForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.VidFizForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.VidUrForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.csproj.GenerateResource.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.csproj.CoreCompileInputs.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.exe
+C:\Users\Derce\Downloads\Telegram Desktop\Nalog\Nalog\Nalog\obj\Debug\Nalog.pdb
