@@ -1,0 +1,48 @@
+C:\Users\1234p\source\repos\Agents\Agents\bin\Debug\Agents.exe.config
+C:\Users\1234p\source\repos\Agents\Agents\bin\Debug\Agents.exe
+C:\Users\1234p\source\repos\Agents\Agents\bin\Debug\Agents.pdb
+C:\Users\1234p\source\repos\Agents\Agents\bin\Debug\MaterialSkin.dll
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.csproj.AssemblyReference.cache
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.csproj.SuggestedBindingRedirects.cache
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.Properties.Resources.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.csproj.GenerateResource.cache
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.csproj.CoreCompileInputs.cache
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.csproj.CopyComplete
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.exe
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.pdb
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.MainForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.AddNForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.UpnForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.VidForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.CityForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.ClassForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.AgentForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.VladForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.ClientForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.DogovorForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.AddDogForm.resources
+C:\Users\1234p\source\repos\Agents\Agents\obj\Debug\Agents.SoldForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\bin\Debug\Agents.exe.config
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\bin\Debug\Agents.exe
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\bin\Debug\Agents.pdb
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\bin\Debug\MaterialSkin.dll
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.csproj.AssemblyReference.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.csproj.SuggestedBindingRedirects.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.AddDogForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.AddNForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.AgentForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.CityForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.ClassForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.ClientForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.DogovorForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.MainForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.Properties.Resources.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.SoldForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.UpnForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.VidForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.VladForm.resources
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.csproj.GenerateResource.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.csproj.CoreCompileInputs.cache
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.csproj.CopyComplete
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.exe
+C:\Users\Derce\Downloads\Telegram Desktop\Паша\Паша\Agents\Agents\obj\Debug\Agents.pdb

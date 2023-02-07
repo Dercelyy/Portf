@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Document</title>
+</head>
+<style>
+*{
+	font-family: 'Roboto', 'Arial';
+}
+.box{
+	border: 2px solid black;
+	margin-bottom: 20px;
+	line-height: 0.6rem;
+	padding: 20px 25px;
+}
+span{
+	vertical-align:middle;
+}
+img{
+	height: 30px;
+}
+</style>
+<body>
+	<h1 align="center">Теория графов методические указания</h1>
+
+	<p> С помощью алгоритма фронта волны найти расстояния в ориентированном графе D: диаметр, радиус и центры. </p>
+
+	<p>Пусть <img src="orgraf_files/dvx.gif" alt=""> ориентированный граф с n 2 вершинами и v,w (vw) – заданные вершины из V. </p>
+
+	<h2 align="center">Алгоритм поиска минимального пути из <img src="orgraf_files/v.gif" alt=""> в <img src="orgraf_files/w.gif" alt=""> в ориентированном графе<br>(Алгоритм фронта волны)</h2>
+
+	<ol>
+		<li>
+			<div class="box">
+				<span>Помечаем вершину <img src="orgraf_files/v.gif" alt=""> индексом 0, затем помечаем вершины  образу вершины <img src="orgraf_files/v.gif" alt=""> индексом 1. Обозначаем их FW1 (v). Полагаем k=1.</span>
+			</div>
+		</li>
+		<li>
+			<div class="box">
+				<span>Если <img src="orgraf_files/4412fdc0.gif" alt=""> или
+				k=n-1>, и одновременно <img src="orgraf_files/wfw.gif" alt="">
+				то вершина <img src="orgraf_files/w.gif" alt=""> не достижима из <img src="orgraf_files/v.gif" alt="">. Работа алгоритма заканчивается.</span>
+			</div>
+		</li>
+		<span>В противном случае продолжаем:</span>
+		<li>
+			<div class="box">
+				 <span>Если <img src="orgraf_files/wfw.gif" alt="">, то переходим к шагу 4.</span>
+			</div>
+		</li>
+	</ol>
+	<p>В противном случае мы нашли минимальный путь из <img src="orgraf_files/v.gif" alt=""> в <img src="orgraf_files/w.gif" alt=""> и его длина равна k. Последовательность вершин</p>
+	<img style="height: 200px;" src="orgraf_files/posledovatelnost.gif" alt="">
+
+<p>есть этот минимальный путь. Работа завершается.</p>
+
+<ol>
+	<li value="4">
+		<div class="box">
+			<span>
+				Помечаем индексом k+1 все непомеченные вершины, которые
+				принадлежат образу множества вершин c индексом k. Множество вершин с индексом k+1 обозначаем
+				<img src="orgraf_files/fwk+1.gif" alt="">. Присваиваем k:=k+1 и переходим к 2).
+			</span>
+		</div>
+	</li>
+</ol>
+<p>Замечания</p>
+<ul>
+	<li>
+		<div class="box">
+			<span>
+				Множество <img src="orgraf_files/fwkv.gif" alt=""> называется фронтом волны k<sup>го</sup> уровня. 
+			</span>
+		</div>
+	</li>
+	<li>
+		<div class="box">
+			<span>
+				Вершины <img src="orgraf_files/www.gif" alt="">
+				могут быть выделены неоднозначно, что соответствует случаю, если
+				<img src="orgraf_files/E.gif" alt=""> 	несколько минимальных путей из
+				<img src="orgraf_files/v.gif" alt=""> в <img src="orgraf_files/w.gif" alt="">.
+			</span>
+		</div>
+	</li>
+</ul>
+
+<p>Чтобы найти расстояния в ориентированном графе, необходимо составить матрицу минимальных расстояний R(D)между его вершинами. Это квадратная матрица размерности <img style="height: 20px;" src="orgraf_files/nxn.gif" alt="">, элементы главной диагонали которой равны нулю (<img style="height: 20px;" src="orgraf_files/rjj.gif" alt="">, i=1,..,n).</p>
+<p>Сначала составляем матрицу смежности. Затем переносим единицы из матрицы смежности в матрицу минимальных расстояний (<img style="height: 25px;" src="orgraf_files/rija.gif" alt="">, если <img style="height: 25px;" src="orgraf_files/aij.gif" alt=""> ). Далее построчно заполняем матрицу следующим образом.</p>
+
+
+<p>Рассматриваем первую строку, в которой есть единицы. Пусть это строка − i-тая и на пересечении с j-тым столбцом стоит единица (то есть <img src="orgraf_files/rij1.gif" alt=""> ).
+	Это значит, что из вершины <img src="orgraf_files/vi.gif" alt=""> можно попасть в вершину <img src="orgraf_files/vj.gif" alt=""> за один шаг. Рассматриваем j-тую строку
+	(строку стоит вводить в рассмотрение, если она содержит хотя бы одну единицу). Пусть элемент <img src="orgraf_files/rjk1.gif" alt="">. Тогда из вершины <img src="orgraf_files/vi.gif" alt=""> в вершину <img src="orgraf_files/vk.gif" alt=""> можно попасть за два шага.
+	Таким образом, можно записать <img style="height: 25px;" src="orgraf_files/rik2.gif" alt=""> . Следует заметить, что если в рассматриваемых строках две или более единиц,
+	то следует прорабатывать все возможные варианты попадания из одной вершины в другую, записывая в матрицу длину наикратчайшего из них.</p>
+
+</body>
+
+</html>
